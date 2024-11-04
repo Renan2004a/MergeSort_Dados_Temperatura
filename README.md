@@ -1,6 +1,6 @@
 # MergeSort - Dados de Temperatura em Intervalos
 # Descrição
-Este programa em C implementa o algoritmo de ordenação Merge Sort e uma função para agrupar temperaturas em intervalos especificados.
+Este programa em C implementa o algoritmo de ordenação Merge Sort e uma função para agrupar temperaturas em intervalos especificados. O sistema foi desenvolvido através da plataforma Replit e o código fonte pode ser encontrado no commit "main.c".
 
 # Estruturas e Funções
 
