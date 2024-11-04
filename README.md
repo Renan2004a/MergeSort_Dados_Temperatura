@@ -63,3 +63,12 @@ Descrição:
 Funcionamento:
  - Define um array de temperaturas e um intervalo para agrupamento.
 - Calcula o tamanho do array e chama groupAndSortTemperatures() para processar as temperaturas.
+  
+# Considerações Finais
+Ao executar o programa, as temperaturas definidas no array são agrupadas em intervalos de 10°C. O programa imprime as temperaturas antes da ordenação e, em seguida, exibe as temperaturas agrupadas e ordenadas para cada intervalo. Este código é uma implementação básica de Merge Sort na disciplina Estrutura de Dados, demonstrando a capacidade de agrupar e ordenar dados em C.
+
+# Aluno
+Renan Alves Tavares
+
+# Docente
+Johnatan Alves De Oliveira
